@@ -1,0 +1,5 @@
+{
+    "token": "DISCORD_BOT_TOKEN",
+    "prefix": "!",
+    "globalSlashCommands": true
+}
